@@ -1,3 +1,6 @@
+* @author Kelompok 5
+* @since 30-11-2020
+	
 import java.util.*;
 import java.text.DecimalFormat;
 import java.io.*;
